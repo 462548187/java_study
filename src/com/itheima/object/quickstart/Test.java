@@ -1,4 +1,4 @@
-package com.itheima.object;
+package com.itheima.object.quickstart;
 
 public class Test {
     public static void main(String[] args) {
@@ -18,6 +18,9 @@ public class Test {
         s2.Math = 95;
         s2.printTotalScore();
         s2.printAverageScore();
+
+        System.out.println("s1 = " + s1);
+        System.out.println("s2 = " + s2);
     }
 
 }

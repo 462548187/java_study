@@ -1,4 +1,4 @@
-package com.itheima.object;
+package com.itheima.object.quickstart;
 
 public class Student {
     String name;
@@ -14,3 +14,10 @@ public class Student {
     }
 }
 
+class Phone{
+
+}
+
+class Car{
+
+}
